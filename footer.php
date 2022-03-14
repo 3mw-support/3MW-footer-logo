@@ -1,0 +1,1 @@
+<div class="icon-logo"><a href="https://www.3mediaweb.com/" target="_blank" class="web_logo" title="<?php if(is_front_page()){ echo 'Professional Web Design Company'; } else{echo '3 Media Web';} ?>"><?php if(is_front_page()){ echo 'Professional Web Design Company'; } else{echo '3 Media Web';} ?></a></div>
